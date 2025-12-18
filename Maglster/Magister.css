@@ -1,0 +1,36 @@
+body {
+    background-color: purple;
+}
+
+.Logo {
+    color: white;
+    font-size: 50px;
+    font-family: Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.vast-logo {
+    position: fixed;
+    top: 15px;
+    left: 15px;
+    z-index: 10000;
+}
+
+.vast-logo img {
+    width: 300px;
+    height: auto;
+    display: block;
+}
+
+.Game {
+    display: block;
+    margin: 100px auto;
+}
+
+.subway {
+    display: block;
+    margin-top: 100px;
+}
